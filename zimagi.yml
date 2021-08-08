@@ -1,0 +1,5 @@
+name: tensorflow
+
+modules:
+    - remote: https://github.com/zimagi-modules/ml.git
+      reference: main
